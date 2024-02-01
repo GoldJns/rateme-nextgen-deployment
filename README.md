@@ -32,6 +32,7 @@ Before deploying, ensure everything is ready.
 
 - Check availability of grafana namespace
 
+- Bump image tags on values.yaml
 
 - Setup Secrets: 🔒
   => secret with name `db-security` and key `password` should be available for every namespace.
