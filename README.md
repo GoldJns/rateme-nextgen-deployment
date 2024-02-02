@@ -30,7 +30,7 @@ Before deploying, ensure everything is ready.
 
 - Dev and prod namespaces are available
 
-- Check availability of grafana namespace
+- Check availability of grafana and sonar namespace
 
 - Bump image tags on values.yaml
 
